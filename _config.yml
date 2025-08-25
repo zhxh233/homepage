@@ -51,26 +51,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a PhD candidate who is focus on bioinformatics, especieally in comparative genomics. 
 
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Shell</mark>
-'''
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: Smarter birds, smaller eggs, and less parental care time
+        link: https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+        title: Acute hypoxia suppresses ...
+        #link: https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +102,7 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-'''
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
