@@ -96,7 +96,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: You actually finished reading all of it!
+# references_title: You actually finished reading all of it!
 
 # Build settings
 remote_theme: sproogen/resume-theme
