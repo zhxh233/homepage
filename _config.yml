@@ -31,9 +31,9 @@ orcid_username: 0000-0001-6402-7155
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: GitHub
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://github.com/zhxh233
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm a PhD candidate who is focus on bioinformatics, especieally in comparative genomics. 
 
   I am most skilled in: <mark>Python</mark>, <mark>R</mark> and <mark>Shell</mark>
-
+'''
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -111,7 +111,7 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+'''
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
