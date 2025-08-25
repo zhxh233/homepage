@@ -55,14 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+    content: | # this will include new lines to allow paragraphs
       - layout: left
-        title: Smarter birds, smaller eggs, and less parental care time
+        Smarter birds, smaller eggs, and less parental care time
         link: https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283
-        # link_ext: Project Website
-    content:
-      - layout: left
-        title: Acute hypoxia suppresses ...
+        Acute hypoxia suppresses ...
         #link: https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283
 
   - title: Experience # Title for the section
