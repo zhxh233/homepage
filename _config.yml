@@ -58,10 +58,8 @@ content:
     content:
       - layout: left
         description: |
-          1. [Smarter birds, smaller eggs, and less parental care time](https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283)
-          
+          1. [Pan, S.-K. et al. Smarter birds, smaller eggs, and less parental care time. Zoological Research 44, 98–100 (2023).](https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283)
           2. [Acute hypoxia suppresses...]
-          #(https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.283)
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
